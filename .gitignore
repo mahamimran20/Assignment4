@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# EvoSuite/Randoop temp
+evosuite-tests/
+evosuite-report/
+
+# IDE/OS
+*.class
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# JARs (keep your generated .java tests, but ignore tool jars)
+*.jar
