@@ -2,7 +2,7 @@
 
 ## Team Members
 - **Maham Imran** (NetID: MXI210012)
-- **Praneel** (NetID: TBD)
+- **Praneel** (NetID: GXB210015)
 - **Gagana** (NetID: TBD)
 
 ## GitHub Repository
