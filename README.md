@@ -3,7 +3,7 @@
 ## Team Members
 - **Maham Imran** (NetID: MXI210012)
 - **Praneel Sreepada** (NetID: PSS200001)
-- **Gagana** (NetID: TBD)
+- **Gagana Ramesh** (NetID: GXB210015)
 
 ## GitHub Repository
 **Repository Link:** https://github.com/mahamimran20/Assignment4
